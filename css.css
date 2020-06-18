@@ -1,3 +1,7 @@
+.hidden-form {
+	display: none;
+}
+
 li.menu-item-706 a {
 	background-image: linear-gradient(280deg,#EC008B 12.08%,#F3317A 53.53%,#FB6567 95.62%) !important;
 	width: 130px !important;
